@@ -1,1 +1,2 @@
-# ktree_constraints
+# nonlinear_dendrites
+nonlinear dendrites project
