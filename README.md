@@ -9,4 +9,5 @@ Physiological experiments have highlighted how the dendrites of biological neuro
 
 
 Early Stopping code from this repository: https://github.com/Bjarten/early-stopping-pytorch
+
 SparseLinear code from rain-neuromorphics group: https://github.com/rain-neuromorphics/
